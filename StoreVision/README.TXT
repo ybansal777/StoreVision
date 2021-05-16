@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+StoreVision is our entrepreneurship project for the 2020-21 school year.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: StoreVision
+PURPOSE OF PROJECT: Improve speed and effiency of shopping at stores.
+VERSION or DATE: Version 1.0
+HOW TO START THIS PROJECT: Open the folder in Greenfoot. 
+AUTHORS: Akshit Agarwal, Yash Bansal, Tameem Saydi, Eeshan Walia
+USER INSTRUCTIONS: Open the StoreVision folder in Greenfoot then press the run button. Then press the space bar to begin. 
